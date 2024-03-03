@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcookbooknitro=self.webpackChunkcookbooknitro||[]).push([[5035],{4061:o=>{o.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
