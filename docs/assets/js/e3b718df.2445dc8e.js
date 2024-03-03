@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcookbooknitro=self.webpackChunkcookbooknitro||[]).push([[6891],{2302:o=>{o.exports=JSON.parse('{"permalink":"/https://github.com/router-resources/nitrocourse.git/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

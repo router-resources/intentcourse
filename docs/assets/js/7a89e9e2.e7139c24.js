@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcookbooknitro=self.webpackChunkcookbooknitro||[]).push([[6209],{8451:o=>{o.exports=JSON.parse('{"label":"docusaurus","permalink":"/nitrocourse/blog/tags/docusaurus","allTagsPath":"/nitrocourse/blog/tags","count":4,"unlisted":false}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcookbooknitro=self.webpackChunkcookbooknitro||[]).push([[6806],{2265:o=>{o.exports=JSON.parse('{"label":"hello","permalink":"/https://github.com/router-resources/nitrocourse.git/blog/tags/hello","allTagsPath":"/https://github.com/router-resources/nitrocourse.git/blog/tags","count":2,"unlisted":false}')}}]);

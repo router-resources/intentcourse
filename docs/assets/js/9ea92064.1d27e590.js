@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcookbooknitro=self.webpackChunkcookbooknitro||[]).push([[751],{7268:o=>{o.exports=JSON.parse('{"permalink":"/nitrocourse/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
