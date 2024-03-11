@@ -32,6 +32,10 @@ To explore the current statistics and track the progress of Router Nitro, users 
 
 As we move forward in the course, we will delve deeper into the technical aspects and practical applications of Router Nitro, equipping participants with the knowledge and skills to leverage its capabilities effectively in the blockchain ecosystem.
 
+# Quiz 
+
+[Play Nitro Quiz and earn Rewards .](https://router-nitro-quiz.vercel.app/page3)
+
 
 # Share Your Learnings!
 

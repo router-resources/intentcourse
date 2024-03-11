@@ -39,6 +39,11 @@ In conclusion, Module 1 has provided a comprehensive overview of the need for Ro
 As we progress through the course, we will delve deeper into the functionalities and technical aspects of Router Nitro, building upon the foundation established in Module 1 to explore its full potential and applications in real-world scenarios.
 
 
+# Quiz 
+
+[Play Nitro Quiz and earn Rewards .](https://router-nitro-quiz.vercel.app/page1)
+
+
 
 # Share Your Learnings!
 

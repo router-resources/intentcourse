@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcookbooknitro=self.webpackChunkcookbooknitro||[]).push([[2734],{3392:o=>{o.exports=JSON.parse('{"label":"facebook","permalink":"/nitrocourse/blog/tags/facebook","allTagsPath":"/nitrocourse/blog/tags","count":1,"unlisted":false}')}}]);

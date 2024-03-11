@@ -22,6 +22,10 @@ In conclusion, Module 4 has shed light on the distinctive features and advantage
 
 As we progress through the course, readers will gain a deeper understanding of Router Nitro's capabilities and its role in driving innovation and efficiency in the DeFi landscape. With Router Nitro, users can navigate the complexities of cross-chain interoperability with confidence and efficiency, unlocking new opportunities for growth and development in the blockchain ecosystem.
 
+# Quiz 
+
+[Play Nitro Quiz and earn Rewards .](https://router-nitro-quiz.vercel.app/page4)
+
 # Share Your Learnings!
 
 ![img](https://github.com/router-resources/Router-Nitro-CookBook/assets/124175970/23258532-0dfa-407e-b695-2ed2eb39d1bc)

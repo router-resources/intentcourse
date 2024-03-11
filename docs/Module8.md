@@ -121,6 +121,10 @@ The module delved into the codebase, offering insights into the implementation o
 
 By providing developers with a clear understanding of the codebase and its functionalities, Module 8 empowers them to seamlessly integrate Router Nitro into their decentralized applications, facilitating efficient and secure cross-chain token transfers. Through these insights, developers can leverage Router Nitro to enhance interoperability across diverse blockchain networks, unlocking new possibilities in the decentralized finance landscape.
 
+# Quiz 
+
+[Play Nitro Quiz and earn Rewards .](https://router-nitro-quiz.vercel.app/page8)
+
 
 # Share Your Learnings!
 

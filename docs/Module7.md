@@ -103,6 +103,10 @@ The module demonstrated a practical example using a demo dApp to transfer USDT f
 
 The module provided detailed insights into each step, including code snippets and explanations, to guide developers through the integration process effectively. By following the outlined steps, developers can seamlessly incorporate Nitro into their dApps, enabling efficient and secure cross-chain token transfers.
 
+# Quiz 
+
+[Play Nitro Quiz and earn Rewards .](https://router-nitro-quiz.vercel.app/page7)
+
 
 # Share Your Learnings!
 

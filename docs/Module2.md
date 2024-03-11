@@ -28,6 +28,10 @@ In conclusion, Module 2 has provided a comprehensive understanding of asset swap
 
 As we progress through the course, we will delve deeper into a Cross Chain asset swapping and transfer engine which helps you do transfer and swapping of assets from one blockchain to another in an efficient , cost effective and secure way.
 
+# Quiz 
+
+[Play Nitro Quiz and earn Rewards .](https://router-nitro-quiz.vercel.app/page2)
+
 
 # Share Your Learnings!
 

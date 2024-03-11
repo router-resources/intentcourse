@@ -39,6 +39,10 @@ Moreover, the module introduced essential terms such as Orchestrators, Middlewar
 
 Through a detailed examination of the forwarder flow implementation, Module 6 illustrated how Router Nitro bridges assets seamlessly across different chains while maintaining security and minimizing costs. By employing a reverse verification flow, Router Nitro completes asset transfers with accuracy and reliability, thus offering users a robust solution for interoperability in the blockchain space.
 
+# Quiz 
+
+[Play Nitro Quiz and earn Rewards .](https://router-nitro-quiz.vercel.app/page6)
+
 
 # Share Your Learnings!
 
