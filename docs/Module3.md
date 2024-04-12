@@ -42,7 +42,7 @@ As we move forward in the course, we will delve deeper into the technical aspect
 ![img](https://github.com/router-resources/Router-Nitro-CookBook/assets/124175970/23258532-0dfa-407e-b695-2ed2eb39d1bc)
 
 
-*Share your learnings on Twitter. Click [here](https://clicktotweet.com/UxA7n)* 
+*Share your learnings on Twitter. Click [here](https://ctt.ac/xEiob)* 
 
 
 # [Next: Module 4: What's the Difference between Router Nitro & Other Products in the Market?](Module4.md)
