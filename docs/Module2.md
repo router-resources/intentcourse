@@ -38,6 +38,6 @@ As we progress through the course, we will delve deeper into a Cross Chain asset
 ![img](https://github.com/router-resources/Router-Nitro-CookBook/assets/124175970/23258532-0dfa-407e-b695-2ed2eb39d1bc)
 
 
-*Share your learnings on Twitter. Click [here](https://clicktotweet.com/l0j5n)* 
+*Share your learnings on Twitter. Click [here](https://ctt.ac/Fc0HB)* 
 
 # [Next: Module 3: Introduction to Router Nitro & its Statistics ](Module3.md)
