@@ -126,6 +126,6 @@ By elucidating the intricacies of transaction execution in cross-chain token tra
 *Share your learnings on Twitter. Click [here](https://clicktotweet.com/zgEbl)* 
 
 
-# [ Next: Module 10: Summary & Cheatsheets ](Module10.md)
+# [ Next: Module 10: Using Asset Transfer SDK - Part 01 ](Module10.md)
 
 
