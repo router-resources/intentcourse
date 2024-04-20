@@ -1,4 +1,4 @@
-# `Module 9: Explaining the CodeBase of Router Nitro - Part 3`
+# `Module 9: Using PathFinder API - Part 3`
 
 Welcome to Module 9 Of Router Nitro CookBook. In this module, we'll be looking at a dApp and understanding its CodeBase. In the previous module, we understood about **Step 2** which is checking and setting the allowance. This is the Part 3 of understanding the CodeBase. Let's Begin...
 
