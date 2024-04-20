@@ -34,10 +34,11 @@ git clone https://github.com/router-resources/Router-Nitro-CookBook
 4. [What's the Difference between Router Nitro & Other Products in the Market?](Module4.md)
 5. [What are Some Prerequisites for Learning Router Nitro?](Module5.md)
 6. [Understanding Forwarders and How They Work?](Module6.md)
-7. [Explaining the Codebase of Router Nitro - Part 1](Module7.md)
-8. [Explaining the Codebase of Router Nitro - Part 2](Module8.md)
-9. [Explaining the Codebase of Router Nitro - Part 3](Module9.md)
-10. [Summary & Cheatsheets](Module10.md)
+7. [Using PathFinder API - Part 1](Module7.md)
+8. [Using PathFinder API - Part 2](Module8.md)
+9. [Using PathFinder API - Part 3](Module9.md)
+10. [Using Asset Transfer SDK - Part 1](Module10.md)
+11. [Using Asset Transfer SDK - Part 2](Module11.md)
 
 # `Try it out`
 
