@@ -1,4 +1,4 @@
-# `Module 8: Explaining the CodeBase of Router Nitro - Part 2`
+# `Module 8: Using PathFinder API - Part 2`
 
 Welcome to Module 8 Of Router Nitro CookBook. In this module, we'll be looking at a dApp and understanding its CodeBase. In the previous module, we understood about **Step 1** which is getting the quote data. This is the Part 2 of understanding the CodeBase. Let's Begin...
 
