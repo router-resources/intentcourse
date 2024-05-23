@@ -42,4 +42,4 @@ This is where the Concept of Adapters becomes Essential. Adapters are Designed t
 
 Using the example provided, the Router’s CCIF and its Adapters could Simplify DeFi Activities. With this Setup, you could Transfer any Token from any Blockchain and Contribute Liquidity in a Single, Straightforward step, Bypassing Multiple Approvals, Excessive Gas Fees, and the hassle of Dealing with numerous dApps.
 
-# [Next : Module 2 ](2.md)
+# [Next : Module 2 ](docs/2.md)
