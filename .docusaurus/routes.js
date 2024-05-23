@@ -3,103 +3,68 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/nitrocourse/__docusaurus/debug',
-    component: ComponentCreator('/nitrocourse/__docusaurus/debug', '014'),
-    exact: true
-  },
-  {
-    path: '/nitrocourse/__docusaurus/debug/config',
-    component: ComponentCreator('/nitrocourse/__docusaurus/debug/config', 'ef1'),
-    exact: true
-  },
-  {
-    path: '/nitrocourse/__docusaurus/debug/content',
-    component: ComponentCreator('/nitrocourse/__docusaurus/debug/content', '70a'),
-    exact: true
-  },
-  {
-    path: '/nitrocourse/__docusaurus/debug/globalData',
-    component: ComponentCreator('/nitrocourse/__docusaurus/debug/globalData', 'b1d'),
-    exact: true
-  },
-  {
-    path: '/nitrocourse/__docusaurus/debug/metadata',
-    component: ComponentCreator('/nitrocourse/__docusaurus/debug/metadata', '15d'),
-    exact: true
-  },
-  {
-    path: '/nitrocourse/__docusaurus/debug/registry',
-    component: ComponentCreator('/nitrocourse/__docusaurus/debug/registry', '012'),
-    exact: true
-  },
-  {
-    path: '/nitrocourse/__docusaurus/debug/routes',
-    component: ComponentCreator('/nitrocourse/__docusaurus/debug/routes', '59e'),
-    exact: true
-  },
-  {
     path: '/nitrocourse/blog',
-    component: ComponentCreator('/nitrocourse/blog', 'f00'),
+    component: ComponentCreator('/nitrocourse/blog', '5a9'),
     exact: true
   },
   {
     path: '/nitrocourse/blog/archive',
-    component: ComponentCreator('/nitrocourse/blog/archive', '931'),
+    component: ComponentCreator('/nitrocourse/blog/archive', '470'),
     exact: true
   },
   {
     path: '/nitrocourse/blog/first-blog-post',
-    component: ComponentCreator('/nitrocourse/blog/first-blog-post', 'bd2'),
+    component: ComponentCreator('/nitrocourse/blog/first-blog-post', 'b3f'),
     exact: true
   },
   {
     path: '/nitrocourse/blog/long-blog-post',
-    component: ComponentCreator('/nitrocourse/blog/long-blog-post', '1f4'),
+    component: ComponentCreator('/nitrocourse/blog/long-blog-post', '3e0'),
     exact: true
   },
   {
     path: '/nitrocourse/blog/mdx-blog-post',
-    component: ComponentCreator('/nitrocourse/blog/mdx-blog-post', 'e81'),
+    component: ComponentCreator('/nitrocourse/blog/mdx-blog-post', '22f'),
     exact: true
   },
   {
     path: '/nitrocourse/blog/tags',
-    component: ComponentCreator('/nitrocourse/blog/tags', '641'),
+    component: ComponentCreator('/nitrocourse/blog/tags', 'd21'),
     exact: true
   },
   {
     path: '/nitrocourse/blog/tags/docusaurus',
-    component: ComponentCreator('/nitrocourse/blog/tags/docusaurus', '4e3'),
+    component: ComponentCreator('/nitrocourse/blog/tags/docusaurus', '59c'),
     exact: true
   },
   {
     path: '/nitrocourse/blog/tags/facebook',
-    component: ComponentCreator('/nitrocourse/blog/tags/facebook', '8c3'),
+    component: ComponentCreator('/nitrocourse/blog/tags/facebook', '989'),
     exact: true
   },
   {
     path: '/nitrocourse/blog/tags/hello',
-    component: ComponentCreator('/nitrocourse/blog/tags/hello', '6b5'),
+    component: ComponentCreator('/nitrocourse/blog/tags/hello', 'bf8'),
     exact: true
   },
   {
     path: '/nitrocourse/blog/tags/hola',
-    component: ComponentCreator('/nitrocourse/blog/tags/hola', '1f8'),
+    component: ComponentCreator('/nitrocourse/blog/tags/hola', '521'),
     exact: true
   },
   {
     path: '/nitrocourse/blog/welcome',
-    component: ComponentCreator('/nitrocourse/blog/welcome', '16b'),
+    component: ComponentCreator('/nitrocourse/blog/welcome', '506'),
     exact: true
   },
   {
     path: '/nitrocourse/markdown-page',
-    component: ComponentCreator('/nitrocourse/markdown-page', '5b5'),
+    component: ComponentCreator('/nitrocourse/markdown-page', '5eb'),
     exact: true
   },
   {
     path: '/nitrocourse/docs',
-    component: ComponentCreator('/nitrocourse/docs', '428'),
+    component: ComponentCreator('/nitrocourse/docs', '0c4'),
     routes: [
       {
         path: '/nitrocourse/docs',
@@ -177,7 +142,7 @@ export default [
   },
   {
     path: '/nitrocourse/',
-    component: ComponentCreator('/nitrocourse/', 'ecc'),
+    component: ComponentCreator('/nitrocourse/', '1fd'),
     exact: true
   },
   {
