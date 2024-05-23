@@ -1,12 +1,12 @@
 
 
-# Module 1: Introduction to the Course
+# Module 1: Introduction 
 
 ![Module1 img](https://github.com/ShivankK26/Router-Academy-Courses/assets/115289871/c10187aa-5298-43c7-b8bd-3723b62ce367)
 
 Welcome to Module 1 Of Cross Chain Intent Framework CookBook. In this Module, we'll be Understanding What is this Course about & How to Utilize it. Let's Begin...
 
-## What is this Course About?
+## What is this Cookbook About?
 
 The Quest for Seamless Interoperability and User-Friendly Interfaces has led to Significant Innovations. One such Breakthrough is the Concept of “Adapters” within the Router cross-chain Intent Framework (CCIF), which Promises to Revolutionize how Users Interact with Decentralized Applications (dApps) across various Blockchain Networks.
 
