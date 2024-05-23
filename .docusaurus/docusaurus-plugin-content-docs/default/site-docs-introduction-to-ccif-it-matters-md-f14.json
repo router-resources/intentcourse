@@ -1,0 +1,27 @@
+{
+  "id": "Introduction to CCIF & it Matters",
+  "title": "Module 3: Introduction to CCIF & it Matters",
+  "description": "module-3",
+  "source": "@site/docs/Introduction to CCIF & it Matters.md",
+  "sourceDirName": ".",
+  "slug": "/Introduction to CCIF & it Matters",
+  "permalink": "/nitrocourse/docs/Introduction to CCIF & it Matters",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Introduction to CCIF & it Matters.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 2: What are Different Types Of Intents?",
+    "permalink": "/nitrocourse/docs/What are Different Types Of Intents"
+  },
+  "next": {
+    "title": "Module 4: Use Cases Of CCIF",
+    "permalink": "/nitrocourse/docs/Use Cases Of CCIF"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "Module8",
+  "title": "Module 8: Using PathFinder API - Part 2",
+  "description": "Welcome to Module 8 Of Router Nitro CookBook. In this Module, we'll be looking at a dApp and Understanding its CodeBase. In the previous Module, we understood about Step 1 which is getting the Quote Data. This is the Part 2 of Understanding the CodeBase. Let's Begin...",
+  "source": "@site/docs/Module8.md",
+  "sourceDirName": ".",
+  "slug": "/Module8",
+  "permalink": "/nitrocourse/docs/Module8",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Module8.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 7: Using PathFinder API - Part 1",
+    "permalink": "/nitrocourse/docs/Module7"
+  },
+  "next": {
+    "title": "Module 9: Using PathFinder API - Part 3",
+    "permalink": "/nitrocourse/docs/Module9"
+  }
+}

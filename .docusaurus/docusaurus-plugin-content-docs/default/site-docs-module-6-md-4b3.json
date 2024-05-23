@@ -1,0 +1,24 @@
+{
+  "id": "Module6",
+  "title": "Module 6: Understanding Forwarders and How They Work?",
+  "description": "Welcome to Module 6 Of Router Nitro CookBook. In this Module, we'll be Understanding what are Forwarders, how do they Work, and how Router Protocol has been Implementing it. Let's Begin...",
+  "source": "@site/docs/Module6.md",
+  "sourceDirName": ".",
+  "slug": "/Module6",
+  "permalink": "/nitrocourse/docs/Module6",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Module6.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 5: What are Some Prerequisites for Learning Router Nitro?",
+    "permalink": "/nitrocourse/docs/Module5"
+  },
+  "next": {
+    "title": "Module 7: Using PathFinder API - Part 1",
+    "permalink": "/nitrocourse/docs/Module7"
+  }
+}

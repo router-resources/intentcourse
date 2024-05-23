@@ -1,0 +1,23 @@
+{
+  "id": "Introduction to the Course",
+  "title": "Module 1: Introduction to the Course",
+  "description": "Module1 img",
+  "source": "@site/docs/Introduction to the Course.md",
+  "sourceDirName": ".",
+  "slug": "/Introduction to the Course",
+  "permalink": "/nitrocourse/docs/Introduction to the Course",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Introduction to the Course.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Module 2: What are Different Types Of Intents?",
+    "permalink": "/nitrocourse/docs/What are Different Types Of Intents"
+  }
+}

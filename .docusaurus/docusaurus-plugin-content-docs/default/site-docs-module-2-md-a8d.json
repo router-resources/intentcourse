@@ -1,0 +1,24 @@
+{
+  "id": "Module2",
+  "title": "Module 2: What is Asset Swapping and Asset Transfer?",
+  "description": "Welcome to the Module 2 Of the Router Nitro CookBook. In this Module, we'll be Understanding that what is Asset Swapping and Asset Transfer? Let's Begin...",
+  "source": "@site/docs/Module2.md",
+  "sourceDirName": ".",
+  "slug": "/Module2",
+  "permalink": "/nitrocourse/docs/Module2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Module2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 11: Using Asset Transfer SDK : Part 2",
+    "permalink": "/nitrocourse/docs/Module11"
+  },
+  "next": {
+    "title": "Module 3: Introduction to Router Nitro & its Statistics",
+    "permalink": "/nitrocourse/docs/Module3"
+  }
+}

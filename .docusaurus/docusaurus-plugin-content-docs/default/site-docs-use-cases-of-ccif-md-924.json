@@ -1,0 +1,27 @@
+{
+  "id": "Use Cases Of CCIF",
+  "title": "Module 4: Use Cases Of CCIF",
+  "description": "Welcome to Module 4 Of Cross Chain Intent Framework CookBook. In this Module, we'll be Understanding what are the Use Cases of Router Protocol's CCIF. Let's Begin...",
+  "source": "@site/docs/Use Cases Of CCIF.md",
+  "sourceDirName": ".",
+  "slug": "/Use Cases Of CCIF",
+  "permalink": "/nitrocourse/docs/Use Cases Of CCIF",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Use Cases Of CCIF.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 3: Introduction to CCIF & it Matters",
+    "permalink": "/nitrocourse/docs/Introduction to CCIF & it Matters"
+  },
+  "next": {
+    "title": "Module 5: Components Of CCIF 01",
+    "permalink": "/nitrocourse/docs/Components Of CCIF 01"
+  }
+}

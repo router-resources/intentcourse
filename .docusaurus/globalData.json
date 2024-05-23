@@ -1,0 +1,78 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/nitrocourse/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/nitrocourse/docs",
+          "mainDocId": "Introduction to the Course",
+          "docs": [
+            {
+              "id": "Components Of CCIF 01",
+              "path": "/nitrocourse/docs/Components Of CCIF 01",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Components Of CCIF 02",
+              "path": "/nitrocourse/docs/Components Of CCIF 02",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Components Of CCIF 03",
+              "path": "/nitrocourse/docs/Components Of CCIF 03",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Components Of CCIF 04",
+              "path": "/nitrocourse/docs/Components Of CCIF 04",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Introduction to CCIF & it Matters",
+              "path": "/nitrocourse/docs/Introduction to CCIF & it Matters",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Introduction to Intent Store & XP Points",
+              "path": "/nitrocourse/docs/Introduction to Intent Store & XP Points",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Introduction to the Course",
+              "path": "/nitrocourse/docs/Introduction to the Course",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Summary & CheatSheets",
+              "path": "/nitrocourse/docs/Summary & CheatSheets",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Use Cases Of CCIF",
+              "path": "/nitrocourse/docs/Use Cases Of CCIF",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "What are Different Types Of Intents",
+              "path": "/nitrocourse/docs/What are Different Types Of Intents",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/nitrocourse/docs/Introduction to the Course",
+                "label": "Introduction to the Course"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

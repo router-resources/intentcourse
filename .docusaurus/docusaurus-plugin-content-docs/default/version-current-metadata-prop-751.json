@@ -1,0 +1,146 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Module 1: Introduction to the Course",
+        "href": "/nitrocourse/docs/Introduction to the Course",
+        "docId": "Introduction to the Course",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Module 2: What are Different Types Of Intents?",
+        "href": "/nitrocourse/docs/What are Different Types Of Intents",
+        "docId": "What are Different Types Of Intents",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Module 3: Introduction to CCIF & it Matters",
+        "href": "/nitrocourse/docs/Introduction to CCIF & it Matters",
+        "docId": "Introduction to CCIF & it Matters",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Module 4: Use Cases Of CCIF",
+        "href": "/nitrocourse/docs/Use Cases Of CCIF",
+        "docId": "Use Cases Of CCIF",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Module 5: Components Of CCIF 01",
+        "href": "/nitrocourse/docs/Components Of CCIF 01",
+        "docId": "Components Of CCIF 01",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Module 6: Components Of CCIF 02",
+        "href": "/nitrocourse/docs/Components Of CCIF 02",
+        "docId": "Components Of CCIF 02",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Module 7: Components Of CCIF 03",
+        "href": "/nitrocourse/docs/Components Of CCIF 03",
+        "docId": "Components Of CCIF 03",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Module 8: Components Of CCIF 04",
+        "href": "/nitrocourse/docs/Components Of CCIF 04",
+        "docId": "Components Of CCIF 04",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Module 9: Introduction to Intent Store & XP Points",
+        "href": "/nitrocourse/docs/Introduction to Intent Store & XP Points",
+        "docId": "Introduction to Intent Store & XP Points",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Module 10: Summary & CheatSheets",
+        "href": "/nitrocourse/docs/Summary & CheatSheets",
+        "docId": "Summary & CheatSheets",
+        "unlisted": false
+      }
+    ]
+  },
+  "docs": {
+    "Components Of CCIF 01": {
+      "id": "Components Of CCIF 01",
+      "title": "Module 5: Components Of CCIF 01",
+      "description": "Screenshot 2024-05-18 at 11 52 13 AM",
+      "sidebar": "tutorialSidebar"
+    },
+    "Components Of CCIF 02": {
+      "id": "Components Of CCIF 02",
+      "title": "Module 6: Components Of CCIF 02",
+      "description": "Screenshot 2024-05-18 at 11 54 14 AM",
+      "sidebar": "tutorialSidebar"
+    },
+    "Components Of CCIF 03": {
+      "id": "Components Of CCIF 03",
+      "title": "Module 7: Components Of CCIF 03",
+      "description": "Welcome to Module 7 Of Cross Chain Intent Framework CookBook. In this Module, we'll be Understanding what are the Different Components (Adapter Registry Module) Of Cross Chain Intent Framework - 03. Let's Begin...",
+      "sidebar": "tutorialSidebar"
+    },
+    "Components Of CCIF 04": {
+      "id": "Components Of CCIF 04",
+      "title": "Module 8: Components Of CCIF 04",
+      "description": "Screenshot 2024-05-18 at 11 55 59 AM",
+      "sidebar": "tutorialSidebar"
+    },
+    "Introduction to CCIF & it Matters": {
+      "id": "Introduction to CCIF & it Matters",
+      "title": "Module 3: Introduction to CCIF & it Matters",
+      "description": "module-3",
+      "sidebar": "tutorialSidebar"
+    },
+    "Introduction to Intent Store & XP Points": {
+      "id": "Introduction to Intent Store & XP Points",
+      "title": "Module 9: Introduction to Intent Store & XP Points",
+      "description": "intent-store-",
+      "sidebar": "tutorialSidebar"
+    },
+    "Introduction to the Course": {
+      "id": "Introduction to the Course",
+      "title": "Module 1: Introduction to the Course",
+      "description": "Module1 img",
+      "sidebar": "tutorialSidebar"
+    },
+    "Summary & CheatSheets": {
+      "id": "Summary & CheatSheets",
+      "title": "Module 10: Summary & CheatSheets",
+      "description": "Welcome to Module 10 Of Cross Chain Intent Framework CookBook. In this Module, we'll be having a Quick Overview at the CheatSheet available. Let's Begin...",
+      "sidebar": "tutorialSidebar"
+    },
+    "Use Cases Of CCIF": {
+      "id": "Use Cases Of CCIF",
+      "title": "Module 4: Use Cases Of CCIF",
+      "description": "Welcome to Module 4 Of Cross Chain Intent Framework CookBook. In this Module, we'll be Understanding what are the Use Cases of Router Protocol's CCIF. Let's Begin...",
+      "sidebar": "tutorialSidebar"
+    },
+    "What are Different Types Of Intents": {
+      "id": "What are Different Types Of Intents",
+      "title": "Module 2: What are Different Types Of Intents?",
+      "description": "Welcome to Module 2 Of Cross Chain Intent Framework CookBook. In this Module, we'll be Understanding What are Intents and its types. Let's Begin...",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

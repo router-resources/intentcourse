@@ -1,0 +1,24 @@
+{
+  "id": "Module11",
+  "title": "Module 11: Using Asset Transfer SDK : Part 2",
+  "description": "Welcome to Module 11 of the Router Nitro Cookbook. This Module focuses on importing all the Necessary Modules, Getting the Quote and actually Executing the Transaction.",
+  "source": "@site/docs/Module11.md",
+  "sourceDirName": ".",
+  "slug": "/Module11",
+  "permalink": "/nitrocourse/docs/Module11",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Module11.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 10: Using Asset Transfer SDK: Part 1",
+    "permalink": "/nitrocourse/docs/Module10"
+  },
+  "next": {
+    "title": "Module 2: What is Asset Swapping and Asset Transfer?",
+    "permalink": "/nitrocourse/docs/Module2"
+  }
+}

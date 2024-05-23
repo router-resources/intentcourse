@@ -1,0 +1,27 @@
+{
+  "id": "What are Different Types Of Intents",
+  "title": "Module 2: What are Different Types Of Intents?",
+  "description": "Welcome to Module 2 Of Cross Chain Intent Framework CookBook. In this Module, we'll be Understanding What are Intents and its types. Let's Begin...",
+  "source": "@site/docs/What are Different Types Of Intents.md",
+  "sourceDirName": ".",
+  "slug": "/What are Different Types Of Intents",
+  "permalink": "/nitrocourse/docs/What are Different Types Of Intents",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/What are Different Types Of Intents.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 1: Introduction to the Course",
+    "permalink": "/nitrocourse/docs/Introduction to the Course"
+  },
+  "next": {
+    "title": "Module 3: Introduction to CCIF & it Matters",
+    "permalink": "/nitrocourse/docs/Introduction to CCIF & it Matters"
+  }
+}

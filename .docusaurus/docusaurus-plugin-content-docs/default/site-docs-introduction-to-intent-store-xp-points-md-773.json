@@ -1,0 +1,27 @@
+{
+  "id": "Introduction to Intent Store & XP Points",
+  "title": "Module 9: Introduction to Intent Store & XP Points",
+  "description": "intent-store-",
+  "source": "@site/docs/Introduction to Intent Store & XP Points.md",
+  "sourceDirName": ".",
+  "slug": "/Introduction to Intent Store & XP Points",
+  "permalink": "/nitrocourse/docs/Introduction to Intent Store & XP Points",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Introduction to Intent Store & XP Points.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 8: Components Of CCIF 04",
+    "permalink": "/nitrocourse/docs/Components Of CCIF 04"
+  },
+  "next": {
+    "title": "Module 10: Summary & CheatSheets",
+    "permalink": "/nitrocourse/docs/Summary & CheatSheets"
+  }
+}

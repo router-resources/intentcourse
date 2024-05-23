@@ -1,0 +1,20 @@
+{
+  "id": "README",
+  "title": "Router Nitro Course CookBook",
+  "description": "Welcome to the Router Nitro Course! This README serves as a guide to the structure and content of the course. Below, you'll find the different modules that make up the course curriculum along with brief descriptions of each module.",
+  "source": "@site/docs/README.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/nitrocourse/docs/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 9: Using PathFinder API - Part 3",
+    "permalink": "/nitrocourse/docs/Module9"
+  }
+}

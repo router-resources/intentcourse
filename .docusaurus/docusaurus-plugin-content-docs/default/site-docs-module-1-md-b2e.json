@@ -1,0 +1,20 @@
+{
+  "id": "Module1",
+  "title": "Module 1: What's the Need of Router Nitro & Why to Use it?",
+  "description": "Welcome to the Module 1 Of the Router Nitro CookBook. In this Module, we'll be Understanding that what's the Need of Router Nitro? Why cross-chain Interoperability needs to be Catered and why should you only prefer Router Nitro? Let's Begin...",
+  "source": "@site/docs/Module1.md",
+  "sourceDirName": ".",
+  "slug": "/Module1",
+  "permalink": "/nitrocourse/docs/Module1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Module1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Module 10: Using Asset Transfer SDK: Part 1",
+    "permalink": "/nitrocourse/docs/Module10"
+  }
+}

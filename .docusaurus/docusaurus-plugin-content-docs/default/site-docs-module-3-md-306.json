@@ -1,0 +1,24 @@
+{
+  "id": "Module3",
+  "title": "Module 3: Introduction to Router Nitro & its Statistics",
+  "description": "Welcome to the Module 3 Of the Router Nitro CookBook. In this module, we'll be Understanding what Router Nitro is and what are its Latest Statistics. Since the Launch of Router Nitro Mainnet, it has been Dominating the Industry so let's understand how it has been doing this. Let's Begin...",
+  "source": "@site/docs/Module3.md",
+  "sourceDirName": ".",
+  "slug": "/Module3",
+  "permalink": "/nitrocourse/docs/Module3",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Module3.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 2: What is Asset Swapping and Asset Transfer?",
+    "permalink": "/nitrocourse/docs/Module2"
+  },
+  "next": {
+    "title": "Module 4: What's the Difference between Router Nitro & Other Products in the Market?",
+    "permalink": "/nitrocourse/docs/Module4"
+  }
+}

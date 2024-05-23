@@ -1,0 +1,27 @@
+{
+  "id": "Components Of CCIF 03",
+  "title": "Module 7: Components Of CCIF 03",
+  "description": "Welcome to Module 7 Of Cross Chain Intent Framework CookBook. In this Module, we'll be Understanding what are the Different Components (Adapter Registry Module) Of Cross Chain Intent Framework - 03. Let's Begin...",
+  "source": "@site/docs/Components Of CCIF 03.md",
+  "sourceDirName": ".",
+  "slug": "/Components Of CCIF 03",
+  "permalink": "/nitrocourse/docs/Components Of CCIF 03",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Components Of CCIF 03.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 6: Components Of CCIF 02",
+    "permalink": "/nitrocourse/docs/Components Of CCIF 02"
+  },
+  "next": {
+    "title": "Module 8: Components Of CCIF 04",
+    "permalink": "/nitrocourse/docs/Components Of CCIF 04"
+  }
+}

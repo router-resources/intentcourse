@@ -1,0 +1,24 @@
+{
+  "id": "Module4",
+  "title": "Module 4: What's the Difference between Router Nitro & Other Products in the Market?",
+  "description": "Welcome to the Module 4 Of the Router Nitro CookBook. In this Module, we'll be Understanding the Difference between Router Nitro and Some other Products in Market. Let's Begin...",
+  "source": "@site/docs/Module4.md",
+  "sourceDirName": ".",
+  "slug": "/Module4",
+  "permalink": "/nitrocourse/docs/Module4",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Module4.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 3: Introduction to Router Nitro & its Statistics",
+    "permalink": "/nitrocourse/docs/Module3"
+  },
+  "next": {
+    "title": "Module 5: What are Some Prerequisites for Learning Router Nitro?",
+    "permalink": "/nitrocourse/docs/Module5"
+  }
+}
